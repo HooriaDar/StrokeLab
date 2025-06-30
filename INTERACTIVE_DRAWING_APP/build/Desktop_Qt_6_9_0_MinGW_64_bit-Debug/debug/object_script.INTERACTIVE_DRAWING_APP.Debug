@@ -1,0 +1,14 @@
+debug/main.o
+debug/mainwindow.o
+debug/brush.o
+debug/Canvas.o
+debug/Circle.o
+debug/ColorPicker.o
+debug/Eraser.o
+debug/FreehandStroke.o
+debug/Line.o
+debug/Rectangle.o
+debug/Shape.o
+debug/UndoRedoManager.o
+debug/moc_mainwindow.o
+debug/moc_Canvas.o

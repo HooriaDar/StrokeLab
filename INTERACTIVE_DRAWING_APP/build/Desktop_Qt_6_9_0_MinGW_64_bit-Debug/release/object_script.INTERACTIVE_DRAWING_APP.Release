@@ -1,0 +1,14 @@
+release/main.o
+release/mainwindow.o
+release/brush.o
+release/Canvas.o
+release/Circle.o
+release/ColorPicker.o
+release/Eraser.o
+release/FreehandStroke.o
+release/Line.o
+release/Rectangle.o
+release/Shape.o
+release/UndoRedoManager.o
+release/moc_mainwindow.o
+release/moc_Canvas.o
